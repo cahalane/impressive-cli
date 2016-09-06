@@ -8,7 +8,7 @@ import (
 
 const (
 	usage    = "usage: impressive email@umail.ucc.ie password"
-	errormsg = "An error occured generating your calendar. Did you enter your username and password?"
+	errormsg = "An error occurred generating your calendar. Did you enter your username and password?"
 )
 
 func main() {

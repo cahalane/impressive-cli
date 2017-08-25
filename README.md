@@ -1,4 +1,9 @@
-#impressive-cli
+# DEPRECATED
+Will not work with versions of Impressive following [v1.0.1](https://github.com/colm2/impressive/releases/tag/1.0.1).
+
+UCC broke compatibility, so this program is essentially useless in its current form.
+
+## impressive-cli
 
 ![impressive logo](http://i.imgur.com/dXS1iob.png)
 
